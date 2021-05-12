@@ -30,7 +30,7 @@ HIDDEN UNITS  = Hidden units list
 
 Run ```python train.py -h``` to see the help documentation for the function
 
-Training may take some timne, depending on the amount of compute resources available 
+Training may take some time, depending on the amount of compute resources available 
 
 ##  Making a prediction 
 To make a prediction, run predict.py with the desired checkpoint file and the location of the image.
